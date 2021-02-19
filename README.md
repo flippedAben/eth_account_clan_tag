@@ -1,10 +1,11 @@
-# Ethereum Clan-tag-based Account Generator
+# Ethereum Clan Tagged Account Generator
 
-Instead of mining to put transactions on the blockchain, let's mine a clan tag.
+Claim your clan tags now! Before the future generations take your swag away!
 
-This is completely for fun and an absolute waste of resources. While learning
-about Ethereum, I happened to think about clan tags in games. Clan tags are the
-dumbest things in this world, but YOLO.
+Instead of mining to put transactions on the blockchain and do useful work,
+let's mine clan tags. This is completely for fun and an absolute waste of
+resources. While learning about Ethereum, I happened to think about clan tags
+in games. Clan tags are the dumbest things in this world.
 
 This program will generate a seed, private key, public key, and account address
 for you, such that the account address ends in a "clan tag".
@@ -29,9 +30,21 @@ python main.py <a tag>
 
 _Note: tags of size > 4 might take a while_
 
+# Example output
+
+```
+Seed       : <removed>
+Private key: <removed>
+Public key : b338ecaf6c5a13fc436345dfbde58a29a0d05a74a6f89a89b4061c8f7840617fd705720188e41c32c019bb962c6fb2b11330314aa8351a3975a0daf87982841a
+Address    : 36f1ec004e9cb05bd12fa23a079786261ae5beef
+Never share the seed or private key with anyone!
+Never share the seed or private key with anyone!
+Never share the seed or private key with anyone!
+```
+
 # Gratitude
 
 Heavy thanks to these resources:
 
-- [Generating Ethereum address in Python](https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/)
+- [Generating Ethereum addresses in Python](https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/)
 - [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak)
