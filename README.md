@@ -14,6 +14,7 @@ Clan tags are only hex. Examples:
 - fade
 - dead
 - beef
+- 0000
 
 # Setup
 
@@ -30,6 +31,7 @@ _Note: tags of size > 4 might take a while_
 
 # Gratitude
 
-Heavy thanks to this resource:
+Heavy thanks to these resources:
 
-- (Generating Ethereum address in Python)[https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/].
+- [Generating Ethereum address in Python](https://www.arthurkoziel.com/generating-ethereum-addresses-in-python/)
+- [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak)
