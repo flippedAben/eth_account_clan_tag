@@ -23,8 +23,7 @@ Tested on Linux only. I use Arch btw. Also vegan. Crossfit, too.
 python -m venv env
 source env/bin/activate
 pip install pycryptodome coincurve
-python generate.py
-# Type in your desired clan tag!
+python main.py <a tag>
 ```
 
 _Note: tags of size > 4 might take a while_
