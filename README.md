@@ -1,10 +1,8 @@
 # Ethereum Clan Tagged Account Generator
 
-Claim your clan tags now! Before the future generations take your swag away!
+Imagine being the absolute unit whose Ethereum account address is:
 
-Imagine being the absolute unit whose Ethereum account is:
-
-36f1ec004e9cb05bd12fa23a079786261ae5__beef__
+> 36f1ec004e9cb05bd12fa23a079786261ae5**beef**
 
 Instead of mining to put transactions on the blockchain and do useful work,
 let's mine clan tags. This is completely for fun and an absolute waste of
