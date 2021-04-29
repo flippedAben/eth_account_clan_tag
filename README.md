@@ -21,7 +21,8 @@ Clan tags are only hex. Examples:
 
 # Setup
 
-Tested on Linux only. I use Arch btw. Also vegan. Crossfit, too.
+Tested on Linux only. I use Arch btw. Also vegan. Crossfit, too. (It's a joke.
+I'm none of these things.)
 
 ```bash
 python -m venv env
